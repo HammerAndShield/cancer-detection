@@ -6,7 +6,7 @@ Mini-project for binary image classification using CNNs to detect metastatic can
 - Problem: Binary classification of cancer in microscopic tissue images
 - Dataset: Roughly 220k training images, and about 57k test images (96x96 pixels, RGB)
 - Models: Baseline CNN, Improved CNN with BatchNorm/Dropout, Transfer Learning with ResNet50
-- Best Result: 0.4237 AUC-ROC score on Kaggle test set
+- Best Result: 0.5226 AUC-ROC score on Kaggle test set
 
 ## Contents
 - cancer_detection.ipynb: Main notebook with analysis and model code
